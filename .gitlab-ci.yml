@@ -1,0 +1,8 @@
+stages:
+  - test
+
+echo_job:
+  stage: test
+  image: alpine:latest
+  script:
+    - echo "GitLab CI is working fine"
