@@ -6,3 +6,4 @@ echo_job:
   image: alpine:latest
   script:
     - echo "GitLab CI is working fine"
+    - echo "Sample Project"
