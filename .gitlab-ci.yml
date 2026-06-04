@@ -9,3 +9,4 @@ echo_job:
     - echo "GitLab CI is working fine"
     - echo "Sample Project"
     - echo "Add comment from GITHUB"
+    - echo "*****************"
