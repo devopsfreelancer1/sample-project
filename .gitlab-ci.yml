@@ -8,3 +8,4 @@ echo_job:
   script:
     - echo "GitLab CI is working fine"
     - echo "Sample Project"
+    - echo "Add comment from GITHUB"
